@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "System Share",
+  "version": "0.1",
+  "description": "Bring share button back! Share current page via system share UI.",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "contextMenus"
+  ],
+  "action": {
+    "default_title": "Share this page"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "16": "icon.png",
+    "32": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}
