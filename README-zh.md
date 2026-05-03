@@ -4,6 +4,10 @@
 
 
 
+**已上架Edge拓展商店**：https://microsoftedge.microsoft.com/addons/detail/fbgjhgncnclcbadfbjhbgjfonbbfejnn
+
+
+
 把分享按钮带回到Edge浏览器。Microsoft移除了它，因此我们把它带回来了。
 
 使用系统分享器分享当前网页。

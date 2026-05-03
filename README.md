@@ -4,6 +4,10 @@
 
 
 
+Now Avaliable in **Microsoft Edge Extensions shop！**： https://microsoftedge.microsoft.com/addons/detail/fbgjhgncnclcbadfbjhbgjfonbbfejnn
+
+
+
 Bring the Share Button back to Edge Browser!
 
 Share current page via system share UI.
